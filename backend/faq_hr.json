@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Maaş bordromu kimden alabilirim?",
+    "answer": "Maaş bordronuzu almak için İnsan Kaynakları biriminden Yusuf Korkmaz ile iletişime geçebilirsiniz."
+  },
+  {
+    "question": "Yıllık izin hakkımı nasıl öğrenebilirim?",
+    "answer": "Yıllık izin hakkınızı İK Portalı üzerindeki 'İzinlerim' sekmesinden görüntüleyebilirsiniz."
+  },
+  {
+    "question": "Yeni işe girişte hangi belgeleri teslim etmeliyim?",
+    "answer": "Kimlik fotokopisi, ikametgah belgesi, adli sicil kaydı ve SGK işe giriş bildirgesi teslim edilmelidir."
+  },
+  {
+    "question": "Şirket yemek kartı hangi gün yüklenir?",
+    "answer": "Yemek kartına her ayın 1'inde bakiye yüklemesi yapılır."
+  },
+  {
+    "question": "Servis güzergahlarını nereden öğrenebilirim?",
+    "answer": "Servis güzergahları intranet üzerinden 'Ulaşım' sekmesinde listelenmiştir."
+  },
+  {
+    "question": "Haftalık çalışma saatleri nedir?",
+    "answer": "Haftalık çalışma süresi 45 saattir. Pazartesi-Cuma günleri 09:00-18:00 saatleri arasındadır."
+  },
+  {
+    "question": "Geç kalırsam ne yapmalıyım?",
+    "answer": "Geç kalmanız durumunda yöneticinize ve İnsan Kaynakları’na bilgi vermeniz gerekmektedir."
+  },
+  {
+    "question": "Uzaktan çalışma hangi günlerde uygulanıyor?",
+    "answer": "Uzaktan çalışma uygulaması çarşamba ve cuma günleri geçerlidir."
+  },
+  {
+    "question": "Resmi tatil günlerinde çalışırsam ne olur?",
+    "answer": "Resmi tatil günlerinde yapılan mesai, %100 zamlı ücret veya izin olarak telafi edilir."
+  },
+  {
+    "question": "İşten ayrılma sürecinde kaç hafta önceden haber vermeliyim?",
+    "answer": "İşten ayrılmak isteyen çalışanların en az 2 hafta öncesinden yazılı bildirim yapması gerekir."
+  },
+  {
+    "question": "Doğum izni kaç gündür?",
+    "answer": "Kadın çalışanlar için doğum izni 112 gündür (8 hafta önce + 8 hafta sonra)."
+  },
+  {
+    "question": "Babalık izni ne kadar?",
+    "answer": "Babalık izni 5 iş günüdür."
+  },
+  {
+    "question": "Performans değerlendirmeleri ne zaman yapılır?",
+    "answer": "Performans değerlendirmeleri yılda iki kez; ocak ve temmuz aylarında yapılır."
+  },
+  {
+    "question": "Prim ödemeleri ne zaman yapılır?",
+    "answer": "Prim ödemeleri yıllık performans sonuçlarına göre nisan ayında yapılır."
+  },
+  {
+    "question": "Sağlık sigortası hangi hastaneleri kapsıyor?",
+    "answer": "Sağlık sigortası anlaşmalı özel hastaneler listesini İK Portalı'ndan öğrenebilirsiniz."
+  },
+  {
+    "question": "Eğitim taleplerimi nasıl iletebilirim?",
+    "answer": "İK Portalı’ndan 'Eğitim Talep Formu'nu doldurarak yöneticinizin onayıyla iletebilirsiniz."
+  },
+  {
+    "question": "Şirket içi terfi süreçleri nasıl işliyor?",
+    "answer": "Terfiler, yıllık performans değerlendirmeleri ve yöneticilerin önerileri doğrultusunda yapılır."
+  },
+  {
+    "question": "İşe giriş kartımı kaybettim, ne yapmalıyım?",
+    "answer": "İşe giriş kartınızı kaybettiğinizde Güvenlik ve İK birimlerine haber verip yenisini talep etmelisiniz."
+  },
+  {
+    "question": "Şirket e-posta hesabımı nasıl açtırabilirim?",
+    "answer": "Bilgi İşlem birimine form doldurarak başvuruda bulunmanız gerekmektedir."
+  },
+  {
+    "question": "Fazla mesai ücretim bordroya nasıl yansıtılır?",
+    "answer": "Onaylanmış fazla mesai saatleri, takip eden ayın bordrosuna eklenerek ödenir."
+  }
+]
